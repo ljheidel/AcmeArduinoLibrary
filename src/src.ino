@@ -1,0 +1,3 @@
+/* Allows you to open the library in 
+   the Arduino IDE and test it
+*/
